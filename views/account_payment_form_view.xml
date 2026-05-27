@@ -14,14 +14,16 @@
                     string="Information de facturas"
                     invisible="not invoice_information">
                     <div>
-                        <field name="invoice_information"/>
+                        <field name="invoice_information"
+                            widget="CopyClipboardChar"/>
                     </div>
                 </group>
                 <group name="bills_info"
                     string="Information de facturas"
                     invisible="not bills_information">
                     <div>
-                        <field name="bills_information"/>
+                        <field name="bills_information"
+                            widget="CopyClipboardChar"/>
                     </div>
                 </group>
             </xpath>
