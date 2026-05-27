@@ -5,7 +5,7 @@
     "description": "Agrega información de las facturas.",
     "summary": "Agrega información de las facturas",
     "author": "DGV",
-    # 'website': '',
+    "website": "https://github.com/AlfaSystemas5457/add_invoice_information",
     "license": "LGPL-3",
     "category": "account",
     "depends": ["account_payment"],
